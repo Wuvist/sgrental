@@ -23,6 +23,8 @@ https://www.srx.com.sg/price-index#
 # SG rental
 
 https://twc2.org.sg/2014/09/29/980000-work-permit-holders-as-at-june-2014/
+https://ireus.nus.edu.sg/publications/real-estate-market-indexes/singapore-residential-price-index-srpi/srpi/
+https://ireus.nus.edu.sg/publications/real-estate-market-indexes/real-estate-sentiment-index-resi/resi/
 
 - Demand
   - Foreign Worker

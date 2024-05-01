@@ -25,6 +25,8 @@ https://www.srx.com.sg/price-index#
 https://twc2.org.sg/2014/09/29/980000-work-permit-holders-as-at-june-2014/
 https://ireus.nus.edu.sg/publications/real-estate-market-indexes/singapore-residential-price-index-srpi/srpi/
 https://ireus.nus.edu.sg/publications/real-estate-market-indexes/real-estate-sentiment-index-resi/resi/
+https://web.archive.org/web/20161121113645/http://www.mom.gov.sg/documents-and-publications/foreign-workforce-numbers
+
 
 - Demand
   - Foreign Worker

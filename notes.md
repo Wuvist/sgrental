@@ -33,3 +33,17 @@ https://ireus.nus.edu.sg/publications/real-estate-market-indexes/real-estate-sen
 - Supply
   - New unit built
   - HDB mop
+
+
+https://en.wikipedia.org/wiki/Cowles_Foundation
+
+1. Simultaneous economic behavior;
+2. Linear or logarithmic equations and disturbances;
+3. Systematic, observable variables without error;
+4. Discrete variable changes as opposed to continuous;
+5. A priori determination of exogeneity and endogeneity;
+6. The existence of a reduced form;
+7. Independence of the explanatory variables;
+8. A priori identified structural equations;
+9. Normally distributed disturbances with zero means, finite and constant covariances, a nonsingular covariance matrix, and serial independence;
+10. A dynamically stable system of equations.

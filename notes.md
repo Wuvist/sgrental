@@ -13,6 +13,18 @@ Machine Learning:
 - ensemble learning
 - boosting and bagging
 
+https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=housing+price+forecasting&btnG=
+
+## Stats Wiki
+https://en.wikipedia.org/wiki/Reduced_form
+https://en.wikipedia.org/wiki/Methodology_of_econometrics
+https://en.wikipedia.org/wiki/Simultaneous_equations_model
+https://en.wikipedia.org/wiki/Structural_estimation
+https://en.wikipedia.org/wiki/Unit_root
+https://en.wikipedia.org/wiki/Order_of_integration
+https://en.wikipedia.org/wiki/Cointegration
+https://en.wikipedia.org/wiki/Error_correction_model
+https://en.wikipedia.org/wiki/Autoregressive_model
 
 https://zhuanlan.zhihu.com/p/638203936
 https://zhuanlan.zhihu.com/p/188578078
